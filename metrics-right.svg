@@ -23,7 +23,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>b3nj5m1n/xdg-ninja</span>
-                                        <span>starred 9 days ago</span>
+                                        <span>starred 10 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">A shell script which checks your $HOME for unwanted files and directories.</div>
@@ -333,12 +333,12 @@
                         <div class="chart-bars horizontal">
                             <div class="entry">
                                 <span class="name">JavaScript</span>
-                                <div class="bar" style="width: 49.71119981216248%; background-color: var(--color-calendar-graph-day-L3-bg)"></div>
+                                <div class="bar" style="width: 49.72186363102922%; background-color: var(--color-calendar-graph-day-L3-bg)"></div>
                                 <span class="value">62%</span>
                             </div>
                             <div class="entry">
                                 <span class="name">HTML</span>
-                                <div class="bar" style="width: 1.1364169992956092%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
+                                <div class="bar" style="width: 1.1360168994249502%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
                                 <span class="value">1%</span>
                             </div>
                         </div>
