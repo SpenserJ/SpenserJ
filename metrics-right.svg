@@ -185,7 +185,7 @@
                                         <span>starred Jan 02 2024</span>
                                     </div>
                                 </div>
-                                <div class="field description">Easy-to-use and high-performance JavaScript library for data analysis. Works with tabular and geospatial data.</div>
+                                <div class="field description">Easy-to-use and high-performance TypeScript library for data analysis. Works with tabular, geospatial and vector data.</div>
                                 <div class="field infos">
                                     <div class="language">
                                         <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
